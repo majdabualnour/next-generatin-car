@@ -1,3 +1,31 @@
+
+<!-- Python version -->
+![Python Version](https://img.shields.io/badge/python-3.10-blue)
+
+<!-- License -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<!-- Build status (GitHub Actions example) -->
+[![Build Status](https://github.com/majdabualnour/next-generatin-car/actions/workflows/main.yml/badge.svg)](https://github.com/majdabualnour/next-generatin-car/actions)
+
+<!-- Code coverage (Codecov example) -->
+[![codecov](https://codecov.io/gh/majdabualnour/next-generatin-car/branch/main/graph/badge.svg?token=YOUR_CODECOV_TOKEN)](https://codecov.io/gh/majdabualnour/next-generatin-car)
+
+<!-- Downloads (PyPI example) -->
+![Downloads](https://img.shields.io/pypi/dm/your-package-name)
+
+<!-- Issues -->
+[![GitHub issues](https://img.shields.io/github/issues/majdabualnour/next-generatin-car)](https://github.com/majdabualnour/next-generatin-car/issues)
+
+<!-- Forks -->
+[![GitHub forks](https://img.shields.io/github/forks/majdabualnour/next-generatin-car)](https://github.com/majdabualnour/next-generatin-car/network/members)
+
+<!-- Stars -->
+[![GitHub stars](https://img.shields.io/github/stars/majdabualnour/next-generatin-car)](https://github.com/majdabualnour/next-generatin-car/stargazers)
+
+<!-- Last commit -->
+[![GitHub last commit](https://img.shields.io/github/last-commit/majdabualnour/next-generatin-car)](https://github.com/majdabualnour/next-generatin-car/commits/main)
+
 # 🚀 Next-Generation Car Automation Project
 
 ![Project Picture](images/car.png)
