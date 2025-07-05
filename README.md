@@ -1,6 +1,5 @@
 ![Python Version](https://img.shields.io/badge/python-3.10-blue) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-[![Build Status](https://github.com/majdabualnour/next-generatin-car/actions/workflows/main.yml/badge.svg)](https://github.com/majdabualnour/next-generatin-car/actions) 
 [![GitHub issues](https://img.shields.io/github/issues/majdabualnour/next-generatin-car)](https://github.com/majdabualnour/next-generatin-car/issues) 
 [![GitHub forks](https://img.shields.io/github/forks/majdabualnour/next-generatin-car)](https://github.com/majdabualnour/next-generatin-car/network/members) 
 [![GitHub stars](https://img.shields.io/github/stars/majdabualnour/next-generatin-car)](https://github.com/majdabualnour/next-generatin-car/stargazers) 
