@@ -1,0 +1,7 @@
+<script>start("c:\\Users\\Majd\\Documents\\StoreFastAPI\\my_fastapi_app\\venv\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("Include","Include",1,0,"0 B",1747819988,"5/21/25, 12:33:08 PM");</script>
+<script>addRow("Lib","Lib",1,0,"0 B",1747819795,"5/21/25, 12:29:55 PM");</script>
+<script>addRow("Scripts","Scripts",1,0,"0 B",1747820574,"5/21/25, 12:42:54 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,71,"71 B",1747819795,"5/21/25, 12:29:55 PM");</script>
+<script>addRow("pyvenv.cfg","pyvenv.cfg",0,242,"242 B",1747819795,"5/21/25, 12:29:55 PM");</script>

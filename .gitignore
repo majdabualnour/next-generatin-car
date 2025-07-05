@@ -1,0 +1,14 @@
+test2.mp4
+vid1.mp4
+/__pycache__/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.webp
+*.tiff
+*.ico
+sendmassage.py
+jjd.py
