@@ -4,6 +4,7 @@ vid1.mp4
 *.jpg
 *.jpeg
 *.png
+!important-images/car.png
 *.gif
 *.bmp
 *.svg
